@@ -12,6 +12,7 @@
 ---
 
 ## 📂 Repository Structure
+```
 📦 algorithm-study
 ┣ 📂 Baekjoon
 ┃ ┣ 📂 Bronze
@@ -23,3 +24,4 @@
 ┃ ┗ 📂 Level3
 ┣ 📂 Notes
 ┗ 📄 README.md
+```
