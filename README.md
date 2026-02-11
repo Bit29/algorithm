@@ -12,4 +12,14 @@
 ---
 
 ## 📂 Repository Structure
-
+📦 algorithm-study
+┣ 📂 Baekjoon
+┃ ┣ 📂 Bronze
+┃ ┣ 📂 Silver
+┃ ┗ 📂 Gold
+┣ 📂 Programmers
+┃ ┣ 📂 Level1
+┃ ┣ 📂 Level2
+┃ ┗ 📂 Level3
+┣ 📂 Notes
+┗ 📄 README.md
